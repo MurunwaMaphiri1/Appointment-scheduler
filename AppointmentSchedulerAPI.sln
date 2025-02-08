@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentSchedulerAPI", "AppointmentSchedulerAPI\AppointmentSchedulerAPI.csproj", "{B69DE1F9-FA5C-4AA0-A130-5572A6DD1164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69DE1F9-FA5C-4AA0-A130-5572A6DD1164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69DE1F9-FA5C-4AA0-A130-5572A6DD1164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69DE1F9-FA5C-4AA0-A130-5572A6DD1164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69DE1F9-FA5C-4AA0-A130-5572A6DD1164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
